@@ -1,8 +1,11 @@
 # 🧠 FormAI – Smart Google Form Auto-Filler Powered by Gemini AI
 
-![FormAI UI Preview](demo/preview.png)
-
 > **FormAI** is a powerful browser extension that uses Google’s Gemini AI to **automatically fill out any public Google Form** — intelligently, accurately, and in seconds.
+
+## 🎥 Demo
+
+![demo/FormAI.gif](https://raw.githubusercontent.com/ZahidGazi/FormAI-Gemini/refs/heads/main/demo/FormAI.gif)
+
 
 This repo contains a **preview and overview only**.  
 🔒 The actual extension is **not open-source or freely distributed**.
@@ -28,12 +31,6 @@ If you’re interested in using FormAI, please **contact me to purchase access**
 - Live progress bar with autofill success/fail summary
 - Settings persist across sessions
 - Minimal UI — install, fill, done.
-
----
-
-## 🎥 Live Demo (GIF)
-
-![FormAI Demo GIF](demo/demo.gif)
 
 ---
 
